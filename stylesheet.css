@@ -11,6 +11,7 @@ body
   background:#ADAD97
 }
 h3{
+  display:inline;
   width:25%;
   height:150px;
 }
